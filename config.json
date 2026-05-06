@@ -12,7 +12,7 @@
   "PASSWORD": "your password",
   "OTPKEY": "",
   "BOTNAME": "Misty ",
-  "PREFIX": "!",
+  "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
